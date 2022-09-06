@@ -29,13 +29,12 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"au,br,sa,za",
+ "usecontry":"au,br,sa,za,mx",
    "au":"https://tdskt.com/CTt2QC?",
    "br":"https://tdskt.com/CTt2QC?",
     "sa":"https://tdskt.com/CTt2QC?",
     "za":"https://tdskt.com/CTt2QC?",
-
-   
+     "mx":"https://tdskt.com/Bf2DSZ?",
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
 
 
