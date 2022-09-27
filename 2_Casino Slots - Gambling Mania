@@ -3,7 +3,7 @@
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 "comment02":"Данные подаються в виде ключ-значение , ключ не должен дублироваться , это приводит к ошибке",
 
-    "method":"aps_atr",
+    "method":"aps_atr,organic",
   
    
  "s":"___________full_source_refer_______________full_source_refer___________________full_source_refer_____________________full_source_refer__________________",   
@@ -17,7 +17,9 @@
 "f4Frhs":"https://tr.appsunit.site/N9JKbHF8?",
 "ptS2jh":"https://tr.appsunit.site/ptS2jh?", 
 "XNYMGgrc":"https://pin-up.ua/XNYMGgrc?", 
-"mad":"https://tdskt.com/CTt2QC?", 
+
+
+"mad":"https://tdskt.com/k8whvn?", 
 
    
  
@@ -29,13 +31,10 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"au,br,sa,za,mx,pk",
-   "au":"https://tdskt.com/CTt2QC?",
-   "br":"https://tdskt.com/CTt2QC?",
-    "sa":"https://tdskt.com/CTt2QC?",
-    "za":"https://tdskt.com/CTt2QC?",
-     "mx":"https://tdskt.com/Bf2DSZ?",
-    "pk":"https://tdskt.com/DxfdTY?",
+ "usecontry":"mx,sa",
+   "mx":"https://tdskt.com/k8whvn?ad_campaign_id=organic&geo=br&",
+   "sa":"https://tdskt.com/k8whvn?ad_campaign_id=organic&geo=br&",
+ 
 
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
 
