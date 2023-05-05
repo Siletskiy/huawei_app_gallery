@@ -31,7 +31,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"mx,sa,bd,it,tr,ua",
+ "usecontry":"",
    "mx":"https://tdskt.com/k8whvn?ad_campaign_id=organic&geo=br&",
    "sa":"https://tdskt.com/k8whvn?ad_campaign_id=organic&geo=br&",
     "bd":"https://tdskt.com/k8whvn?ad_campaign_id=organic&geo=bd&",
